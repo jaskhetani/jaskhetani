@@ -123,8 +123,10 @@ For me, AI is not a shortcut around thinking. It is a way to make my thinking mo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaskhetani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jas Khetani GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskhetani&layout=compact&theme=tokyonight&hide_border=true" alt="Jas Khetani top languages" />
+[![Repositories](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaskhetani?tab=repositories)
+[![Public profile](https://img.shields.io/badge/GitHub%20profile-jaskhetani-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaskhetani)
+[![AI301 Coursework](https://img.shields.io/badge/AI301%20coursework-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jaskhetani/ai301-coursework)
+[![Quantum Projects](https://img.shields.io/badge/Quantum%20projects-learning%20in%20public-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaskhetani/Quantum-Computing-Projects)
 
 </div>
 
